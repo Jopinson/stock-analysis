@@ -10,4 +10,4 @@ By 2018, almost all of their stocks were at a loss.
 ![RefactoredStocks2018](https://user-images.githubusercontent.com/68392225/89133582-a9853c00-d4e2-11ea-8e8a-023a03e37d32.png)
 By refactoring the subroutine that searched and pulled all the stock data, we were able to decrease the time it took to search and pull the data. 
 ## Summary
-By refactoring the script we were able to pull and sort thru the data by almost a second quicker. While the refactored code is faster, the time it took to refactor for only a few fractions of second was not worth the additional time it took to build. 
+By refactoring the script we were able to pull and sort thru the data by almost a second quicker. While the refactored code is faster, the time it took to refactor for only a few fractions of second was not worth the additional time it took to build. Refactoring code can be useful, it did make the script faster and smoother, but it can also be troublesome as well. In refactoring code, you could easily forget to change a varible or range and throw the whole project off, causing you to spend extra time fixing it. 
